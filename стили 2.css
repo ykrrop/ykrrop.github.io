@@ -1,0 +1,29 @@
+.section {
+    padding: 30px;
+}
+.header {
+font-style: 20px;
+line-height: 1.5;
+margin: 60px auto;
+}
+.header span {
+    display: block;
+}
+.form {
+    border: 5px solid blue;
+    padding: 35px 20px;
+}
+.form-header {
+    font-style: 20px;
+    font-weight: 900;
+}
+.form-btn {
+    margin: 10px auto;
+}
+.form input {
+    margin-bottom: 12px;
+}
+.section-header {
+    font-style: 20px;
+    font-weight: 900;
+}
